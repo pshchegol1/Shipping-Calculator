@@ -68,7 +68,7 @@ let img = document.querySelector('img');
 console.log(img); 
 
 let calculateButton = document.querySelector('.control label');
-calculateButton.style.backgroundColor="red"
+calculateButton.style.backgroundColor="tomato"
 console.log(calculateButton);
 
 /* const inputValue = document.querySelector('input');
